@@ -6,7 +6,7 @@
 
 
 ## Introduction
-* This repository will have a small collection of "official" modules for [ST Shop](https://github.com/SMFTricks/ST-Shop)
+* This repository will hold a small collection of "official" modules for [ST Shop](https://github.com/SMFTricks/ST-Shop)
 
 ## Basic Requirements
 * [SMF 2.1](https://github.com/SimpleMachines/SMF2.1)
