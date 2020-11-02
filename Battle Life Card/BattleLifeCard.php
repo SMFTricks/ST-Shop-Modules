@@ -36,16 +36,6 @@ class BattleLifeCard extends Module
 		$this->can_use_item = true;
 	}
 
-	function getAddInput()
-	{
-		return;
-	}
-
-	function getUseInput()
-	{
-		return;
-	}
-
 	function onUse()
 	{
 		global $user_info;
