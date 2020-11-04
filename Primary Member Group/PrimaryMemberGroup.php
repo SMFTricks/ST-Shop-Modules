@@ -43,6 +43,7 @@ class PrimaryMemberGroup extends Module
 		$this->name = Shop::getText('pmg_name');
 		$this->desc = Shop::getText('pmg_desc');
 		$this->price = 50000;
+		$this->require_input = false;
 		$this->can_use_item = true;
 		$this->addInput_editable = true;
 	}
