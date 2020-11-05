@@ -2,7 +2,7 @@
     <img src="https://smftricks.com/logos/logo.png">
  </p>
  
- <img src="https://img.shields.io/badge/License-MPL%202.0-a05a3f?style=flat-square">  <img src="https://img.shields.io/badge/SMF-2.1-3f73a0?style=flat-square"> <img src="https://img.shields.io/badge/ST%20Shop-4.0-7470a0?style=flat-square"> <img src="https://img.shields.io/badge/SA%20Battle-1.16-d16c6c?style=flat-square">
+ <img src="https://img.shields.io/badge/License-MPL%202.0-a05a3f?style=flat-square">  <img src="https://img.shields.io/badge/SMF-2.1-3f73a0?style=flat-square"> <img src="https://img.shields.io/badge/ST%20Shop-4.1-7470a0?style=flat-square"> <img src="https://img.shields.io/badge/SA%20Battle-1.16-d16c6c?style=flat-square">
 
  
 ## Battle Life Card
