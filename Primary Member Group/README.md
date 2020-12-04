@@ -9,7 +9,7 @@
 - Developed by [Diego Andrés](https://github.com/DiegoAndresCortes)
 
 ## Introduction
-* This module will allow the admin to select a group for the users to join after using the item..
+* This module will allow the admin to select a group for the users to join after using the item.
 
 ## Requirements
 * [SMF 2.1](https://github.com/SimpleMachines/SMF2.1)
